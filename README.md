@@ -261,7 +261,7 @@ For detailed table of contents, please refer to the link below.
 
 This is 6 live demos of the PWA apps you'll be making through the book. You can directly run a total of 6 apps in real situation, and furthermore, you can download and test the PWA apps converted to an Android app directly from Google Play.
 
-- [PWAs live demos from the book'Do it! Making Progressive Web Apps(PWAs)'](https://cafe.naver.com/hmaps/11352)
+- [PWAs live demos from the book 'Do it! Making Progressive Web Apps(PWAs)'](https://cafe.naver.com/hmaps/11352)
 
   > https://cafe.naver.com/hmaps/11352
 
