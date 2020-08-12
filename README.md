@@ -1,14 +1,19 @@
+<br><br>
 <p align="center"><img src="https://github.com/codedesign-webapp/pwa-about/blob/master/images/pwa-logo.png"></p>
+<br><br>
 
 # 1. Do it! 프로그레시브 웹앱 만들기 책이란?
 
 'Do it! 프로그레시브 웹앱 만들기' 책의 소개입니다.
 
-<img src="https://github.com/codedesign-webapp/pwa-about/blob/master/images/pwa-img-3d.png" width="300" height="389">&nbsp;&nbsp;<img src="https://github.com/codedesign-webapp/pwa-about/blob/master/images/pwa-img-flat.png" width="270">
+<p align="center">
+<img src="https://github.com/codedesign-webapp/pwa-about/blob/master/images/pwa-img-3d.png" width="300" height="389">
+</p>
 
 ## 들어가며
 
 최근 웹 애플리케이션 분야는 PWA(Progressive Web Apps, 프로그레시브 웹앱), 뷰(Vue.js) 등의 자바스크립트 프레임워크를 통한 SPA(Single Page Apps) 지원, 파이어베이스(Firebase) 등의 실시간 DB 사용과 같은 많은 변화가 이뤄지고 있습니다. 그래서 이러한 동향을 담아 그 동안 다루지 못했던 주제의 새로운 책으로 준비하여 'Do it 프로그레시브 웹앱(PWA) 만들기'라는 책으로 만나뵙게 되었습니다. 
+<br>
 
 - 프로그레시브 웹앱(PWA) 만들기가 즐겁다!
 
@@ -22,15 +27,13 @@
 
 ## 책 자세히 살펴보기
 - [Yes24 인터넷 서점](http://www.yes24.com/Product/Goods/91724510)
-   > http://www.yes24.com/Product/Goods/91724510
+  > http://www.yes24.com/Product/Goods/91724510
 
 <br><br>
 
 # 2. 책의 내용
 
 'Do it! 프로그레시브 웹앱(PWA) 만들기' 책에서 다룰 내용을 간략히 정리해 보았습니다. 
-
-<br>
 
 ## | 첫째마당 | 
  
