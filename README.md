@@ -16,8 +16,10 @@
 
 - 똑같은 코드 베이스에서 안드로이드 앱으로 쉽게 변환할 수 있어야 진정한 크로스 플랫폼 프레임워크라 할 수 있다!
 
+<br>
+
 ## 책 자세히 살펴보기
-### [Yes24](http://www.yes24.com/Product/Goods/91724510)
+### [Yes24 인터넷 서점](http://www.yes24.com/Product/Goods/91724510)
 - http://www.yes24.com/Product/Goods/91724510
 
 <br><br>
@@ -26,7 +28,7 @@
 
 'Do it! 프로그레시브 웹앱(PWA) 만들기' 책에서 다룰 내용을 간략히 정리해 보았습니다. 
 
-<br><br>
+<br>
 
 ## | 첫째마당 | 
  
@@ -57,10 +59,10 @@
 
 <br>
 
-상세한 목차는 아래 링크를 참고하시면 됩니다.
+상세한 목차는 아래 링크를 참고하세요.
 
-### ['Do it! 프로그레시브 웹앱 만들기' 책의 전체 목차입니다.](https://cafe.naver.com/hmaps/11396)
-- https://cafe.naver.com/hmaps/11396
+- ['Do it! 프로그레시브 웹앱 만들기' 책의 전체 목차입니다.](https://cafe.naver.com/hmaps/11396)
+ - https://cafe.naver.com/hmaps/11396
 
 
 <br><br>
@@ -69,11 +71,11 @@
 
 책을 통해서 만들게 될 PWA 앱의 라이브 데모입니다. 실전 상황의 총 6가지 앱을 라이브로 직접 실행할 수 있으며 더 나아가 안드로이드 앱으로 변환된 PWA 앱을 구글 플레이에서 직접 다운로드 받아 테스트할 수 있습니다. 
 
-### ['Do it! 프로그레시브 웹앱(PWA) 만들기' 책의 PWA 앱 예제 라이브 데모](https://cafe.naver.com/hmaps/11352)
-- https://cafe.naver.com/hmaps/11352
+- ['Do it! 프로그레시브 웹앱(PWA) 만들기' 책의 PWA 앱 예제 라이브 데모](https://cafe.naver.com/hmaps/11352)
+ - https://cafe.naver.com/hmaps/11352
 
-### ['Do it! 프로그레시브 웹앱(PWA) 만들기' 책의 안드로이드앱(하이브리드앱) 예제의 라이브 데모](https://cafe.naver.com/hmaps/11353)
-- https://cafe.naver.com/hmaps/11353
+- ['Do it! 프로그레시브 웹앱(PWA) 만들기' 책의 안드로이드앱(하이브리드앱) 예제의 라이브 데모](https://cafe.naver.com/hmaps/11353)
+ - https://cafe.naver.com/hmaps/11353
 
 <br><br>
 
