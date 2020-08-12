@@ -120,9 +120,9 @@
 <p align="center"><img src="https://github.com/codedesign-webapp/pwa-about/blob/master/images/pwa-logo.png"></p>
 <br><br>
 
-# 1. What is a book 'Do it! Creating a Progressive Web Apps(PWA)'?
+# 1. What is a book 'Do it! Making Progressive Web Apps(PWAs)'?
 
-This is an introduction to the book 'Do it! Creating Progressive Web Apps(PWA)'.
+This is an introduction to the book 'Do it! Making Progressive Web Apps(PWAs)'.
 
 <br>
 
@@ -138,74 +138,74 @@ In recent web application fields, there are many tech stacks -- PWA (Progressive
 
 <br>
 
-- Making Progressive Web App (PWA) is fun!
+- Making a Progressive Web App (PWA) is fun!
 
-- Completion of 6 practical situations PWA projects apps as well as basic apps 
+- Practice of PWA projects for 6 real apps as well as basic apps 
 
-- You can see the entire process from converting to a hybrid app and registering on Google Play from PWA!
+- You can see the entire process converting from PWA to a hybrid app and registering on Google Play!
 
-- It's a true cross-platform framework when you can easily convert your Android app from the same code base!
+- PWA is a true cross-platform framework because you can easily convert your Android app from the same code base!
 
 <br>
 
-## 책 자세히 살펴보기
-- [Yes24 인터넷 서점](http://www.yes24.com/Product/Goods/91724510)
+## Take a closer look at the book
+- [Yes24 Internet Bookstore](http://www.yes24.com/Product/Goods/91724510)
 
   > http://www.yes24.com/Product/Goods/91724510
 
 <br><br>
 
-# 2. 책의 내용
+# 2. Content of the book
 
-'Do it! 프로그레시브 웹앱(PWA) 만들기' 책에서 다룰 내용을 간략히 정리해 보았습니다. 
+Here is a brief summary of the topics covered in the book'Do it! Making a Progressive Web Apps(PWAs)'.
 
-### | 첫째마당 | 
+### | First Part | 
  
-#### 전 세계적으로 주목받는 프로그레시브 웹앱의 특징을 자세히 살펴봅니다. 
-- 헬로월드! 프로그레시브 웹앱
-- 자바스크립트 ES6+
-- 순수 자바스크립트와 PWA
+#### Take a closer look at the features of progressive web apps that are gaining worldwide attention. 
+- Hello World! Progressive Web Apps
+- JavaScript ES6+
+- vanilla JavaScript and PWA
 
-### | 둘째마당 | 
+### | Second Part | 
 
-#### 현대화된 웹앱 작업을 쉽게 수행하려면 뷰 프레임워크를 잘 활용해야 합니다. 
-- 뷰, Vuex, Vue Router, SPA(Single Page Application)
-- 뷰티파이와 머티리얼디자인(스펙2)
-- 뷰와 PWA
+#### To make it easy to work with modern web apps, you need to make good use of Vue.js framework.
+- Vue, Vuex, Vue Router, SPA(Single Page Application)
+- Vuetify and Material Design (Specification 2)
+- Vue and PWA
 
-### | 셋째마당 | 
+### | Third Part | 
 
-#### 실전 응용이 가능하도록 수준별로 다양한 상황의 앱을 설계하고 준비했습니다.
-- 구글 Workbox, 파이어베이스
-- 실전 상황의 6가지 앱 프로젝트 : To-Do 앱 만들기, 사진 갤러리 앱 만들기, 카메라 갤러리 앱 만들기, 로그인 서비스 만들기, 푸시 알림 서비스 만들기, 오프라인 동기화 기능 만들기
+#### We designed and prepared apps in various situations for each level to enable practical application.
+- Google Workbox, Firebase
+- 6 apps for real projects : To-Do app, photo gallery app, camera gallery app, login service, push notification service, and offline sync app.
 
-### | 넷째마당 | 
+### | Fourth Part | 
 
-#### PWA를 구글 플레이에도 배포시키는 방법의 이야기가 시작됩니다. 
-- 하이브리드앱과 코르도바
-- PWA와 안드로이드앱
-- 구글 플레이 스토어에 앱 등록하기
+#### The story begins how to distribute PWAs to Google Play.
+- Hybrid Apps and Cordova
+- PWAs and Android app
+- Registering an app on the Google Play Store
 
 <br>
 
-상세한 목차는 아래 링크를 참고하세요.
+For detailed table of contents, please refer to the link below.
 
-- ['Do it! 프로그레시브 웹앱 만들기' 책의 전체 목차입니다.](https://cafe.naver.com/hmaps/11396)
+- [This is the complete table of contents for the book'Do it! Making Progressive Web Apps'.](https://cafe.naver.com/hmaps/11396)
 
   > https://cafe.naver.com/hmaps/11396
 
 
 <br><br>
 
-# 3. 라이브 데모
+# 3. Live Demos
 
-책을 통해서 만들게 될 PWA 앱의 라이브 데모입니다. 실전 상황의 총 6가지 앱을 라이브로 직접 실행할 수 있으며 더 나아가 안드로이드 앱으로 변환된 PWA 앱을 구글 플레이에서 직접 다운로드 받아 테스트할 수 있습니다. 
+This is 6 live demos of the PWA apps you'll be making through the book. You can directly run a total of 6 apps in real situation, and furthermore, you can download and test the PWA apps converted to an Android app directly from Google Play.
 
-- ['Do it! 프로그레시브 웹앱(PWA) 만들기' 책의 PWA 앱 예제 라이브 데모](https://cafe.naver.com/hmaps/11352)
+- [PWAs live demos from the book'Do it! Making Progressive Web Apps(PWAs)'](https://cafe.naver.com/hmaps/11352)
 
   > https://cafe.naver.com/hmaps/11352
 
-- ['Do it! 프로그레시브 웹앱(PWA) 만들기' 책의 안드로이드앱(하이브리드앱) 예제의 라이브 데모](https://cafe.naver.com/hmaps/11353)
+- [Live demos of the Android apps (hybrid Apps) from the book 'Do it! Making Progressive Web Apps(PWAs)'](https://cafe.naver.com/hmaps/11353)
 
   > https://cafe.naver.com/hmaps/11353
 
@@ -215,16 +215,16 @@ In recent web application fields, there are many tech stacks -- PWA (Progressive
 
 <br><br>
 
-# 4. 마무리
+# 4. Success story of PWAs
 
-이 책에서 가장 중심을 이루는 키워드는 **프로그레시브 웹앱(PWA)의 만들기가 즐겁다**는 것입니다. 책을 준비하면서 알게된 PWA에 대한 뷰의 철학과 지원도 너무 훌륭했고 그 동안 꿈꿔왔던 **웹으로 이상적인 앱을 만드는 시대**가 정말 이뤄지는 웹앱 개발 환경의 변화도 놀랍습니다. CODE*DESIGN 웹앱(https://code-design.web.app) 카페가 시작된 2012년 부터 약 9년동안은 회원분들께서 물어봐 주신 2000여개의 질문에 답을 준비하고 600여개의 앱 제작에 대한 생각들을 나누면서 어떤 기술들을 알려드려야 할 지 늘 고심했던 시기였던 것 같습니다. 그리고 앱 제작에 대한 꿈을 이루시는데 어떤 것을 드릴 수 있을가를 준비하고 다듬으면서 마침내 실전의 상황별 예제와 제작 방법을 책에 담을 수 있었습니다. 
+The central keyword in this book is that `making progressive web apps (PWAs) is fun.` Vue's philosophy and support for PWAs, which I learned while preparing the book, was great, and the change in the web app development environment that really brings the era of creating ideal apps with the web technology I've dreamed of is amazing. `'CODE*DESIGN Web App'` ( https://code-design.web.app ), for about 9 years from 2012 when the community cafe started, I have prepared answers to 2,000 questions asked by members and thought about creating 600 apps. It seems to have been a long time when I always struggled with what kind of good skills to prepare and share with community members. And while preparing and refining what I could give to fulfill member's dream for creating app, I was finally able to put into a book filled with actual situation and production method. 
 
-모쪼록 정리한 내용들이 책을 빠르게 검토하고 계획을 세우실 때 도움드렸으면 좋겠습니다. 그리고 이 책을 통해 **학생과 직장인들에게는 좋은 포트폴리오의 재료**가 되고 **기업인들에게는 성공적인 사업을 이루시는데에 조금이나마 기여**되었으면 좋겠습니다. 
+I hope that this README will help you quickly review the book. And through this book, I hope that it will be a good chance to find material of a good portfolio for students and front-end developer, and a little contribution to achieve a successful business for businessmen.
 
-감사합니다.
+Thank you.
 
 <br><br>
-> <strong>CODE*DESIGN 웹앱 : https://CODE-DESIGN.web.app</strong>
+> <strong>CODE*DESIGN web app: https://CODE-DESIGN.web.app</strong>
 >
-> 'CODE*DESIGN 웹앱'은 PWA 프로그레시브 웹앱의 개발과 UIUX 디자인 방법의 스터디를 위한  커뮤니티 카페입니다.
+> 'CODE*DESIGN Web App' is a internet community cafe for PWA Progressive Web App development and UI/UX design method studies.
 
