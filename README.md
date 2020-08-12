@@ -1,13 +1,15 @@
-# pwa-about
+# 1. Do it! 프로그레시브 웹앱 만들기 책이란?
+
 'Do it! 프로그레시브 웹앱 만들기' 책의 소개입니다.
 
-<img src="https://github.com/codedesign-webapp/pwa-about/blob/master/images/pwa-img-3d.png" width="300" height="389"><img src="https://github.com/codedesign-webapp/pwa-about/blob/master/images/pwa-img-flat.jpg" width="300" height="412">
+<img src="https://github.com/codedesign-webapp/pwa-about/blob/master/images/pwa-img-3d.png" width="300" height="389"><img src="https://github.com/codedesign-webapp/pwa-about/blob/master/images/pwa-img-flat.jpg" width="300" height="412" style="border-width='1px';">
 
-## [책 살펴보기]
+## [책 자세히 살펴보기]
 ### [Yes24](http://www.yes24.com/Product/Goods/91724510)
 - http://www.yes24.com/Product/Goods/91724510
 
 ***
+
 
 안녕하세요.
 
@@ -20,6 +22,9 @@
 - PWA에서 멈추지 않고 하이브리드앱으로 변환, 구글 플레이 등록까지 전 과정을 볼 수 있다!
 
 - 똑같은 코드 베이스에서 안드로이드 앱으로 쉽게 변환할 수 있어야 진정한 크로스 플랫폼 프레임워크라 할 수 있다!
+
+
+# 2. 책의 내용
 
 'Do it! 프로그레시브 웹앱(PWA) 만들기' 책에서 다룰 내용을 간략히 정리해 보았습니다. 
 
@@ -61,9 +66,9 @@
 - https://cafe.naver.com/hmaps/11396
 
 
+# 3. 라이브 데모
 
-
-PWA(프로그레시브 웹앱)에 대하여 더욱 궁금하신 분들은 아래 글도 참고해 보시기 바랍니다. 
+책을 통해서 만들게 될 PWA 앱의 라이브 데모입니다.  
 
 ### ['Do it! 프로그레시브 웹앱(PWA) 만들기' 책의 PWA 앱 예제 라이브 데모](https://cafe.naver.com/hmaps/11352)
 - https://cafe.naver.com/hmaps/11352
@@ -71,6 +76,8 @@ PWA(프로그레시브 웹앱)에 대하여 더욱 궁금하신 분들은 아래
 ### ['Do it! 프로그레시브 웹앱(PWA) 만들기' 책의 안드로이드앱(하이브리드앱) 예제의 라이브 데모](https://cafe.naver.com/hmaps/11353)
 - https://cafe.naver.com/hmaps/11353
 
+
+# 4. 마무리
 
 이 책에서 가장 중심을 이루는 키워드는 **프로그레시브 웹앱(PWA)의 만들기가 즐겁다**는 것입니다. 책을 준비하면서 알게된 PWA에 대한 뷰의 철학과 지원도 너무 훌륭했고 그 동안 꿈꿔왔던 **웹으로 이상적인 앱을 만드는 시대**가 정말 이뤄지는 웹앱 개발 환경의 변화도 놀랍습니다. CODE*DESIGN 웹앱(https://code-design.web.app) 카페가 시작된 2012년 부터 약 9년동안은 회원분들께서 물어봐 주신 2000여개의 질문에 답을 준비하고 600여개의 앱 제작에 대한 생각들을 나누면서 어떤 기술들을 알려드려야 할 지 늘 고심했던 시기였던 것 같습니다. 그리고 앱 제작에 대한 꿈을 이루시는데 어떤 것을 드릴 수 있을가를 준비하고 다듬으면서 마침내 실전의 상황별 예제와 제작 방법을 책에 담을 수 있었습니다. 
 
