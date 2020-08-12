@@ -178,6 +178,29 @@ In recent web application fields, there are many tech stacks -- PWA (Progressive
 
 <br>
 
+## 14 key topics you can learn from this book
+
+By following the various examples in this book, you can naturally master the 14 key topics: These skills are essential when developing modern web and mobile apps, giving you a broad experience in growing as a front-end developer.
+
+```
+1. ES6+ essential features
+2. Basic & Advanced for Vue.js, Vuetify.js
+3. Google Material Design Specification 2
+4. Responsive Web Programming
+5. Firebase real-time DB
+6. Workbox runtime cache
+7. Mobile hardware control
+8. Email-Google authentication
+9. Push Notification
+10. Offline synchronization
+11. Making hybrid apps with Apache Cordova
+12. PWA → Native App Conversion
+13. Publishing on Google Play Store
+14. Serverless Programming
+```
+
+<br>
+
 ## Take a closer look at the book
 - [Yes24 Internet Bookstore](http://www.yes24.com/Product/Goods/91724510)
 
