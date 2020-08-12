@@ -197,10 +197,17 @@ Here is a brief summary of the topics covered in the book'Do it! Making a Progre
 
 For detailed table of contents, please refer to the link below.
 
-- [This is the complete table of contents for the book'Do it! Making Progressive Web Apps'.](https://cafe.naver.com/hmaps/11396)
+- [This is the complete table of contents for the book 'Do it! Making Progressive Web Apps(PWAs)'.](https://cafe.naver.com/hmaps/11396)
 
   > https://cafe.naver.com/hmaps/11396
 
+- [Here's how to download the full example files from the book 'Do it! Making Progressive Web Apps(PWAs)'.](https://cafe.naver.com/hmaps/11391)
+
+  > https://cafe.naver.com/hmaps/11391
+
+- [This is how to download the entire mission files from the book 'Do it! Making Progressive Web Apps(PWAs)'.](https://cafe.naver.com/hmaps/11392)
+
+  > https://cafe.naver.com/hmaps/11392
 
 <br><br>
 
