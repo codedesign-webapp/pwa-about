@@ -93,7 +93,7 @@
 
 <br>
 
-<p align="center"><img src="https://github.com/codedesign-webapp/pwa-about/blob/master/images/live-view.png"></p>
+<p align="center"><img src="https://github.com/codedesign-webapp/pwa-about/blob/master/images/live-view.png" width="400px;"></p>
 
 <br><br>
 
