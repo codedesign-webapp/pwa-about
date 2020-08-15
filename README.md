@@ -164,7 +164,7 @@ This is an introduction to the book 'Do it! Making Progressive Web Apps(PWAs)'.
 
 ## Introduction
 
-In recent web application fields, there are many tech stacks -- PWA (Progressive Web Apps), SPA (Single Page Apps), Vue.js, and the use of real-time DBs such as Firebase. So, with this trend, I prepared a new book called'Do it! Creating Progressive Web Apps(PWA)'.
+In recent web application fields, there are many emerging tech stacks -- PWAs(Progressive Web Apps), SPA(Single Page Apps), Vue.js, and the use of real-time DBs such as Firebase. So, with this trend, I prepared a new book called 'Do it! Making Progressive Web Apps(PWA)'.
 
 <br>
 
@@ -174,7 +174,7 @@ In recent web application fields, there are many tech stacks -- PWA (Progressive
 
 - You can see the entire process converting from PWA to a hybrid app and registering on Google Play!
 
-- PWA is a true cross-platform framework because you can easily convert your Android app from the same code base!
+- PWA is a true cross-platform framework because you can easily convert from the same code base of PWA app into your Android app!
 
 <br>
 
@@ -184,7 +184,7 @@ By following the various examples in this book, you can naturally master the 14 
 
 ```
 1. ES6+ essential features
-2. Basic & Advanced for Vue.js, Vuetify.js
+2. Basic & Advanced skills for Vue.js, Vuetify.js
 3. Google Material Design Specification 2
 4. Responsive Web Programming
 5. Firebase real-time DB
@@ -210,7 +210,7 @@ By following the various examples in this book, you can naturally master the 14 
 
 # 2. Content of the book
 
-Here is a brief summary of the topics covered in the book'Do it! Making a Progressive Web Apps(PWAs)'.
+Here is a brief summary of the topics covered in the book 'Do it! Making a Progressive Web Apps(PWAs)'.
 
 ### | First Part | 
  
@@ -230,7 +230,7 @@ Here is a brief summary of the topics covered in the book'Do it! Making a Progre
 
 #### We designed and prepared apps in various situations for each level to enable practical application.
 - Google Workbox, Firebase
-- 6 apps for real projects : To-Do app, photo gallery app, camera gallery app, login service, push notification service, and offline sync app.
+- 6 PWA apps for real projects : To-Do app, photo gallery app, camera gallery app, login service, push notification service, and offline sync app.
 
 ### | Fourth Part | 
 
@@ -259,7 +259,7 @@ For detailed table of contents, please refer to the link below.
 
 # 3. Live Demos
 
-This is 6 live demos of the PWA apps you'll be making through the book. You can directly run a total of 6 apps in real situation, and furthermore, you can download and test the PWA apps converted to an Android app directly from Google Play.
+This is a link for 6 live demos of the PWA apps you'll be making through the book. You can directly run a total of 6 PWA apps in real situation, and furthermore, you can download and test the PWA apps converted to an Android app directly from Google Play.
 
 - [PWAs live demos from the book 'Do it! Making Progressive Web Apps(PWAs)'](https://cafe.naver.com/hmaps/11352)
 
@@ -277,14 +277,14 @@ This is 6 live demos of the PWA apps you'll be making through the book. You can 
 
 # 4. Success story of PWAs
 
-The central keyword in this book is that `making progressive web apps (PWAs) is fun.` Vue's philosophy and support for PWAs, which I learned while preparing the book, was great, and the change in the web app development environment that really brings the era of creating ideal apps with the web technology I've dreamed of is amazing. `'CODE*DESIGN Web App'` ( https://code-design.web.app ), for about 9 years from 2012 when the community cafe started, I have prepared answers to 2,000 questions asked by members and thought about creating 600 apps. It seems to have been a long time when I always struggled with what kind of good skills to prepare and share with community members. And while preparing and refining what I could give to fulfill member's dream for creating app, I was finally able to put into a book filled with actual situation and production method. 
+The central keyword in this book is that `making progressive web apps (PWAs) is fun.` Vue's philosophy and support for PWAs, which I learned while preparing the book, was great, and the change is amazing in the web app development environment that really brings the era of creating ideal apps with the web technology I've dreamed of. `'CODE*DESIGN Web App'` ( https://code-design.web.app ), for about 9 years since 2012 when the community cafe started, I have prepared answers to around 2,000 questions asked by cafe members and thoughts about creating 600 apps. It seems to have been a long time when I always struggled with what kind of good skills to prepare and share with community members. And while preparing and refining what I could give to fulfill member's dream for creating app, I was finally able to put into a book filled with actual situation and production method. 
 
-I hope that this README will help you quickly review the book. And through this book, I hope that it will be a good chance to find material of a good portfolio for students and front-end developer, and a little contribution to achieve a successful business for businessmen.
+I hope that this README will help you quickly review the book. And through this book, I hope that it will be a good chance to find materials of a good portfolio for students and front-end developer, and a good contribution to achieve a successful business for businessmen, startup.
 
 Thank you.
 
 <br><br>
 > <strong>CODE*DESIGN web app: https://CODE-DESIGN.web.app</strong>
 >
-> 'CODE*DESIGN Web App' is a internet community cafe for PWA Progressive Web App development and UI/UX design method studies.
+> 'CODE*DESIGN Web App' is an internet community cafe for PWAs(Progressive Web Apps) development and UI/UX design method studies.
 
