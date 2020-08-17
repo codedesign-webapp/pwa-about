@@ -126,6 +126,20 @@
 
 <p align="center"><img src="https://github.com/codedesign-webapp/pwa-about/blob/master/images/live-view.png" width="400px;"></p>
 
+<br>
+
+지금 바로 실행해서 테스트하시려면 아래 링크를 활용해 보세요.
+
+> **PWA Live Demo**
+- **반가워요! PWA by JS** : https://pwa-hello-js.web.app/
+- **반가워요! PWA by Vue** : https://pwa-hello-vue.web.app/
+- **사진 갤러리** : https://pwa-gallery-pic.web.app/
+- **To-Do 리스트** : https://pwa-to-do.web.app/
+-  **카메라 갤러리** : https://pwa-camera.web.app/
+- **구글 로그인 서비스** : https://pwa-auth-login.web.app/
+- **푸시 알림 서비스** : https://pwa-notification-push.web.app
+- **오프라인 동기화** : https://pwa-offline-sync.web.app/
+
 <br><br>
 
 # 4. 마무리
@@ -273,6 +287,20 @@ This is a link for 6 live demos of the PWA apps you'll be making through the boo
 <br>
 
 <p align="center"><img src="https://github.com/codedesign-webapp/pwa-about/blob/master/images/live-view.png" width="400px;"></p>
+
+<br>
+
+If you want to run it and test it right now, use the link below.
+
+> **PWA Live Demo**
+- **Nice to meet you! PWA by JS**: https://pwa-hello-js.web.app/
+- **Nice to meet you! PWA by Vue**: https://pwa-hello-vue.web.app/
+-**Photo Gallery**: https://pwa-gallery-pic.web.app/
+-**To-Do List**: https://pwa-to-do.web.app/
+-**Camera Gallery**: https://pwa-camera.web.app/
+-**Google Login Service**: https://pwa-auth-login.web.app/
+-**Push Notification Service**: https://pwa-notification-push.web.app
+-**Offline synchronization**: https://pwa-offline-sync.web.app/
 
 <br><br>
 
