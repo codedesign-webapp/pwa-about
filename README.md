@@ -295,12 +295,12 @@ If you want to run it and test it right now, use the link below.
 > **PWA Live Demo**
 - **Nice to meet you! PWA by JS**: https://pwa-hello-js.web.app/
 - **Nice to meet you! PWA by Vue**: https://pwa-hello-vue.web.app/
--**Photo Gallery**: https://pwa-gallery-pic.web.app/
--**To-Do List**: https://pwa-to-do.web.app/
--**Camera Gallery**: https://pwa-camera.web.app/
--**Google Login Service**: https://pwa-auth-login.web.app/
--**Push Notification Service**: https://pwa-notification-push.web.app
--**Offline synchronization**: https://pwa-offline-sync.web.app/
+- **Photo Gallery**: https://pwa-gallery-pic.web.app/
+- **To-Do List**: https://pwa-to-do.web.app/
+- **Camera Gallery**: https://pwa-camera.web.app/
+- **Google Login Service**: https://pwa-auth-login.web.app/
+- **Push Notification Service**: https://pwa-notification-push.web.app
+- **Offline synchronization**: https://pwa-offline-sync.web.app/
 
 <br><br>
 
