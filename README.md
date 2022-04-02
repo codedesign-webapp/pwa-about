@@ -63,6 +63,10 @@
 - [Yes24 인터넷 서점](http://www.yes24.com/Product/Goods/91724510)
 
   > http://www.yes24.com/Product/Goods/91724510
+- [알라딘 인터넷 서점](https://www.aladin.co.kr/m/mproduct.aspx?start=short&itemid=248639223)
+
+  > https://www.aladin.co.kr/m/mproduct.aspx?start=short&itemid=248639223
+
 
 <br><br>
 
